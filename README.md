@@ -1,1 +1,1 @@
-"# predict_students_status" 
+This project is defined as a binary classification. The task was predicting students' status in the final examination (passed or failed). The dataset is available in the UCI machine learning repository. First, define this project as a binary classification problem by summing three scores. After preprocessing the data (get dummies), train the model using the decision tree classifier algorithm. In the inference phase, I achieved 69% accuracy.
